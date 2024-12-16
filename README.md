@@ -4,8 +4,8 @@
 
 - 🚀 Graduate in Systems Analysis and Development by Senac and have been chosen for the Santander Tech+ expert.
 - 💻 Experienced in typescript, node.js, nest.js, python, django, next.js, postgresql, unit tests, docker and cloud environments.
-- 🌱 Current focus is on the study of distributed systems development, event-driven architecture, cloud environments and design patterns
-- 📚 I was an active contributor to the Django Framewirk, developing tools and projects for the Django Developers Brasil community.
+- 📚 Current focus is on the study of distributed systems development, event-driven architecture, cloud environments and design patterns
+- 🌱 I was an active contributor to the Django Framewirk, developing tools and projects for the Django Developers Brasil community.
 
 ## Get in Touch
 - 💬 LinkedIn: https://www.linkedin.com/in/nathanoncodes/
